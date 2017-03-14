@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActivityDemo</string>
+    <string name="destroy_activity_main">退出</string>
+    <string name="msg_start">传送数据 启动活动</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+</resources>
